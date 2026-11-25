@@ -1,0 +1,149 @@
+<Trader> Chereshnia
+    <Category> ЗБРОЯ
+        Crossbow_Autumn, W, 1000, 320
+        CZ527, W, 2000, 640
+        Izh18, W, 700, 220
+        Trumpet, W, 900, 290
+        Winchester70, W, 3000, 960
+        Magnum, W, 1000, 320
+        SawedoffMagnum, W, 800, 260
+        Izh43Shotgun, W, 1100, 350
+        SawedoffIzh43Shotgun, W, 900, 290
+        Mp133Shotgun, W, 1500, 480
+
+    <Category> ОДЯГ ТА СПОРЯДЖЕННЯ
+        CowboyHat_black, 1, 100, 30
+        BoonieHat_DPM, 1, 120, 35
+        BoonieHat_Orange, 1, 80, 25
+        WinterCoif_Skull, 1, 100, 30
+        LeatherGloves_Natural, 1, 120, 35
+        Jeans_BlueDark, 1, 120, 35
+        HunterPants_Summer, 1, 250, 75
+        Wellies_Green, 1, 120, 35
+        WorkingBoots_Grey, 1, 150, 45
+        CombatBoots_Brown, 1, 180, 55
+        Shirt_WhiteCheck, 1, 80, 25
+        QuiltedJacket_Black, 1, 250, 75
+        HuntingJacket_Spring, 1, 300, 90
+        HuntingVest, 1, 350, 105
+        HuntingBag, 1, 900, 270
+
+    <Category> ПАТРОНИ ТА БОЄПРИПАСИ
+        AmmoBox_00buck_10rnd, 1, 170, 40
+        AmmoBox_12gaSlug_10Rnd, 1, 210, 50
+        AmmoBox_12gaBeanbag_10Rnd, 1, 100, 25
+        Ammo_HuntingBolt, 1, 40, 10
+        AmmoBox_762x39_20Rnd, 1, 340, 80
+        Ammo_357, 1, 14, 3
+        Ammo_308Win, 1, 25, 6
+        Ammo_22, 1, 4, 1
+
+    <Category> ЇЖА ТА КУХОННI ПРЕДМЕТИ
+        Lunchmeat, 1, 100, 30
+        WaterBottle, 1, 120, 35
+        PorkCan, 1, 100, 30
+        Tomato, 1, 30, 10
+        GreenBellPepper, 1, 30, 10
+        Zucchini, 1, 30, 10
+        Pumpkin, 1, 50, 15
+        Potato, 1, 25, 10
+        PigSteakMeat, 1, 80, 25
+        Pot, 1, 200, 60
+
+    <Category> РIЗНЕ
+        TomatoSeedsPack, 1, 80, 25
+        PepperSeedsPack, 1, 80, 25
+        PumpkinSeedsPack, 1, 80, 25
+        ZucchiniSeedsPack, 1, 80, 25
+        Hatchet, 1, 300, 90
+        HuntingKnife, 1, 250, 75
+        Shovel, 1, 300, 90
+        HuntingOptic, 1, 800, 240
+        Headtorch_Grey, 1, 200, 60
+        BurlapSackCover, 1, 100, 30
+
+    <Category> ПРОДУКТИ — СКУПКА
+        Banana, 1, -1, 15
+        BoarSteakMeat, 1, -1, 30
+        DeerSteakMeat, 1, -1, 35
+        ReindeerSteakMeat, 1, -1, 40
+        WolfSteakMeat, 1, -1, 25
+        BearSteakMeat, 1, -1, 45
+        CowSteakMeat, 1, -1, 30
+        SheepSteakMeat, 1, -1, 30
+        FoxSteakMeat, 1, -1, 20
+        RabbitLegMeat, 1, -1, 15
+        CarpFilletMeat, 1, -1, 20
+        MackerelFilletMeat, 1, -1, 20
+        WalleyePollockFilletMeat, 1, -1, 15
+        SteelheadTroutFilletMeat, 1, -1, 25
+        RedCaviar, 1, -1, 100
+        Lard, 1, -1, 20
+        Shrimp, 1, -1, 20
+        Carp, 1, -1, 40
+        Catfish, 1, -1, 45
+        Mackerel, 1, -1, 35
+        WalleyePollock, 1, -1, 30
+        SteelheadTrout, 1, -1, 50
+        DeadRabbit, 1, -1, 35
+        DeadFox, 1, -1, 45
+        AgaricusMushroom, 1, -1, 6
+        LactariusMushroom, 1, -1, 5
+        BoletusMushroom, 1, -1, 10
+        CraterellusMushroom, 1, -1, 8
+        SaltyMix, 1, -1, 15
+        SodaCan_Fronta, 1, -1, 20
+        Rice, 1, -1, 20
+        Honey, 1, -1, 35
+        ZagorkyChocolate, 1, -1, 20
+
+    <Category> РIЗНЕ — СКУПКА
+        CanisterGasoline, 1, -1, 180
+        HandSaw, 1, -1, 100
+        NailBox, 1, -1, 60
+        Nail, 1, -1, 1
+        Expansion_PlateCarrierVest_Yeet, 1, -1, 600
+        PlateCarrierVest, 1, -1, 600
+        Rope, 1, -1, 40
+        CarBattery, 1, -1, 350
+        Battery9V, 1, -1, 50
+
+    <Category> ПАТРОНИ — СКУПКА
+        Ammo_45ACP, 1, -1, 3
+        Ammo_308WinTracer, 1, -1, 7
+        Ammo_9x19, 1, -1, 2
+        Ammo_380, 1, -1, 2
+        Ammo_556x45, 1, -1, 5
+        Ammo_556x45Tracer, 1, -1, 5
+        Ammo_762x54, 1, -1, 6
+        Ammo_762x54Tracer, 1, -1, 7
+        Ammo_762x39, 1, -1, 4
+        Ammo_762x39Tracer, 1, -1, 5
+        Ammo_9x39AP, 1, -1, 8
+        Ammo_9x39, 1, -1, 6
+        Ammo_12gaPellets, 1, -1, 4
+        Ammo_12gaSlug, 1, -1, 5
+        Ammo_545x39, 1, -1, 4
+        Ammo_545x39Tracer, 1, -1, 4
+
+    <Category> ЗБРОЯ — СКУПКА
+        AK74, W, -1, 800
+        AKS74U, W, -1, 700
+        AugShort, W, -1, 1440
+        Aug, W, -1, 1600
+        M4A1, W, -1, 1600
+        Mosin9130, W, -1, 580
+        Repeater, W, -1, 350
+        SCARH, W, -1, 1760
+        Glock19, W, -1, 290
+        ASVAL, W, -1, 800
+        VSS, W, -1, 1220
+        SVD, W, -1, 1200
+        M14, W, -1, 1280
+        Saiga, W, -1, 800
+        SKS, W, -1, 580
+        PP19, W, -1, 640
+        FAMAS, W, -1, 400
+        Scout, W, -1, 1120
+
+<FileEnd>

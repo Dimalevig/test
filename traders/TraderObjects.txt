@@ -1,0 +1,61 @@
+//Novodmitrovsk
+//-----------------------------------------------------------
+// Benassi
+<TraderMarker> 0
+<TraderMarkerPosition> 11619.222656, 58.614544, 14746.667969
+<TraderMarkerSafezone> 0
+
+<Object> SurvivorM_Seth
+<ObjectPosition> 11619.222656, 58.614544, 14746.667969
+<ObjectOrientation> -140, 0, 0
+
+<ObjectAttachment> FOG_Shirt_ISOF_Jacket_MC2
+<ObjectAttachment> FOG_FieldPants_MC
+<ObjectAttachment> FOG_Bag_MRASAP_MC
+<ObjectAttachment> FOG_Boonie_MC
+<ObjectAttachment> FOG_Ghost_Mask_Tan
+<ObjectAttachment> FOG_BISON_Belt_MC
+<ObjectAttachment> FOG_Zypher_Boots_RG_NoSocks
+<ObjectAttachment> FOG_FerroGloves_MC
+<ObjectAttachment> FOG_Vest_Osprey_MC
+
+
+// Stary Yar - Black Market
+<TraderMarker> 1
+<TraderMarkerPosition> 4943.798828, 453.572296, 14848.005859
+<TraderMarkerSafezone> 0
+
+<Object> SurvivorM_Elias
+<ObjectPosition> 4943.798828, 453.572296, 14848.005859
+<ObjectOrientation> 217, 0, 0
+
+<ObjectAttachment> FOG_Bag_6ShBagT_Black
+<ObjectAttachment> FOG_Zypher_Boots_Black_NoSocks
+<ObjectAttachment> FOG_UFP_Pants_Black
+<ObjectAttachment> FOG_511_Shirt_Flanel_Black
+<ObjectAttachment> FOG_Vest_Gen4_Black
+<ObjectAttachment> FOG_Hooded_Cloak_Black
+<ObjectAttachment> FOG_BISON_Belt_Black
+<ObjectAttachment> FOG_MechanixGloves_Skele
+<ObjectAttachment> FOG_Glasses_ESS_Black
+<ObjectAttachment> FOG_Knight_Mask_Black
+
+
+// Mogilevka - Chereshnua
+<TraderMarker> 2
+<TraderMarkerPosition> 7613.853027, 214.763077, 5190.859375
+<TraderMarkerSafezone> 0
+
+<Object> SurvivorM_Hassan
+<ObjectPosition> 7613.853027, 214.763077, 5190.859375
+<ObjectOrientation> 217, 0, 0
+
+<ObjectAttachment> WorkingGloves_Brown
+<ObjectAttachment> CowboyHat_black
+<ObjectAttachment> MilitarySweater_Chernarus
+<ObjectAttachment> Jeans_Black
+<ObjectAttachment> HikingBoots_Black
+
+
+
+<FileEnd>

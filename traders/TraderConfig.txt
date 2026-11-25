@@ -1,0 +1,225 @@
+<CurrencyName> UAH
+    <Currency> TD_GRN2014_money1, 1
+    <Currency> TD_GRN2014_money2, 2
+    <Currency> TD_GRN2014_money5, 5
+    <Currency> TD_GRN2014_money10, 10
+    <Currency> TD_GRNnew_money20, 20
+    <Currency> TD_GRNnew_money50, 50
+    <Currency> TD_GRNnew_money100, 100
+    <Currency> TD_GRNnew_money200, 200
+    <Currency> TD_GRNnew_money500, 500
+    <Currency> TD_GRNnew_money1000, 1000
+
+<Trader> Benassi
+    <Category> ТОРС
+        TTsKOJacket_Camo, 1, 350, 105
+        GorkaEJacket_Summer, 1, 450, 135
+        FOG_MTF_Shirt_FK, 1, 300, 90
+        FOG_RugbyShirt_MCB, 1, 250, 75
+        FOG_Tactical_Fleece_MC, 1, 400, 120
+        FOG_MTF_Shirt_ERDL, 1, 300, 90
+        FOG_L9Patagonia_ATACSFG, 1, 450, 135
+        FOG_L9Patagonia_M81, 1, 450, 135
+        FOG_Gorka_Jacket_Autumn, 1, 500, 150
+        FOG_G3_Hoodie_MC, 1, 450, 135
+        FOG_UFJ_Shirt_MC, 1, 350, 105
+        FOG_Tshirt_Tan_Canoe, 1, 150, 45
+        FOG_Tactical_Hoodie_MC, 1, 650, 195
+        FOG_Jacket_SoftShell_MC, 1, 650, 195
+        FOG_Shirt_ISOF_Jacket_M81, 1, 450, 135
+        FOG_Hoodie_Jacket_Rolled_ERDL, 1, 400, 120
+        FOG_Hoodie_Jacket_ERDL, 1, 450, 135
+        FOG_Enhanced_PCU_MC2, 1, 600, 180
+        FOG_Crye_G3_Shirt_UCP, 1, 600, 180
+        FOG_Crye_G3_Shirt_MC_Patagonia, 1, 650, 195
+        FOG_DrugRug_MC, 1, 300, 90
+        FOG_Crye_G2_Shirt_M81, 1, 550, 165
+        FOG_Jacket_ArcteryxGryphon_AOR1, 1, 650, 195
+        FOG_AEM01_Jacket_MCB, 1, 650, 195
+
+    <Category> ШТАНИ
+        BDUPants, 1, 250, 75
+        TTSKOPants, 1, 280, 85
+        USMCPants_Woodland, 1, 300, 90
+        GorkaPants_Summer, 1, 350, 105
+        FOG_UFP_Pants_MC, 1, 400, 120
+        FOG_L9_PatagoniaPants_MC, 1, 450, 135
+        FOG_MTF_Pants_MC, 1, 500, 150
+        FOG_MTF_Pants_ERDL, 1, 450, 135
+        FOG_G99_Pants_M81, 1, 500, 150
+        FOG_Gorka_Pants_Khaki, 1, 400, 120
+        FOG_Pants_Crye_G2_Holster_AOR2, 1, 500, 150
+        FOG_Pants_Crye_G2_ATACS, 1, 480, 145
+        FOG_Pants_Crye_G2_M81, 1, 480, 145
+        FOG_Pants_Crye_G2_MCT, 1, 480, 145
+        FOG_Pants_FRACU_M81, 1, 350, 105
+        FOG_Pants_Crye_G3_Pantera, 1, 500, 150
+        FOG_Pants_Crye_G3_AOR2, 1, 500, 150
+        FOG_L9_PatagoniaPants_M81, 1, 450, 135
+
+    <Category> ВЗУТТЯ
+        CombatBoots_Black, 1, 180, 55
+        FOG_Lerch_Boots_MC, 1, 250, 75
+        MilitaryBoots_Black, 1, 200, 60
+        JungleBoots_Black, 1, 180, 55
+        FOG_Maritime_Shoes_M81, 1, 200, 60
+        FOG_Operator_Boots_Black, 1, 250, 75
+
+    <Category> КАСКИ ТА ШОЛОМИ
+        Ssh68Helmet, 1, 400, 120
+        Mich2001Helmet, 1, 1000, 300
+
+    <Category> РЮКЗАКИ ТА ПІДСУМКИ
+        FOG_Bag_Trizip_ERDL, 1, 2200, 660
+        FOG_Bag_DrawBridge_MC, 1, 3000, 900
+        FOG_Bag_LBT1475A_MCB, 1, 1800, 540
+        ArmyPouch_Camo, 1, 250, 75
+        AliceBag_Camo, 1, 1200, 360
+        HuntingBag, 1, 900, 270
+        DryBag_Green, 1, 500, 150
+
+    <Category> БРОНЯ ТА РОЗВАНТАЖЕННЯ
+        UKAssVest_Khaki, 1, 600, 180
+        ChestRigVest_Khaki, 1, 400, 120
+        PlateCarrierVest_Camo, 1, 2000, 600
+
+    <Category> ГОЛОВНI УБОРИ ТА ОКУЛЯРИ
+        BoonieHat_Dubok, 1, 120, 35
+        FOG_SoftCap_MC, 1, 120, 35
+        FOG_Boonie_M81, 1, 150, 45
+        MilitaryBeret_CDF, 1, 120, 35
+        MilitaryBeret_Red, 1, 120, 35
+        SportGlasses_Black, 1, 100, 30
+        FOG_Glasses_ESS_Black, 1, 250, 75
+        FOG_HalfMask_RG, 1, 150, 45
+        FOG_Arcteryx_Balaclava_RG, 1, 75, 20
+
+    <Category> РУКАВИЦI
+        FOG_WinterGloves_MC, 1, 150, 45
+        FOG_PIGFDT_Gloves_RG, 1, 200, 60
+        FOG_Tactical_Fingerless_Gloves_Green, 1, 120, 35
+
+    <Category> ЗБРОЯ
+        AK74_Green, W, 2500, 1000
+        Glock19, W, 900, 360
+        Mosin9130_Green, W, 1800, 720
+
+    <Category> МАГАЗИНИ ДО ЗБРОЇ
+        Mag_AK74_30Rnd, M, 500, 150
+        Mag_Glock_15Rnd, M, 300, 90
+
+    <Category> ПАТРОНИ ТА КОРОБКИ
+        AmmoBox_762x54_20Rnd, 1, 475, 140
+        AmmoBox_9x19_25rnd, 1, 240, 70
+        Ammo_9x19, 1, 10, 3
+        Ammo_545x39, 1, 16, 5
+        AmmoBox_545x39_20Rnd, 1, 300, 90
+
+    <Category> ЇЖА, НАПОЇ ТА ПОСУД
+        SodaCan_Cola, 1, 60, 20
+        PeachesCan_Opened, 1, 30, 10
+        SardinesCan, 1, 80, 25
+        SmallGlassBottle_Afza, 1, 60, 20
+        Lassi_Mint, 1, 70, 20
+        Crackers, 1, 50, 15
+
+    <Category> РІЗНЕ ТА ПОБУТОВI ПРЕДМЕТИ
+        BatteryCharger, 1, 800, 240
+        TetracyclineAntibiotics, 1, 400, 120
+        ChernarusMap, 1, 100, 30
+        PersonalRadio, 1, 400, 120
+        GPSReceiver, 1, 1500, 450
+        MortarMix, 1, 200, 60
+        HeadlightH7_Box, 1, 200, 60
+        CanisterGasoline, 1, 600, 180
+        UniversalLight, 1, 250, 75
+        TLRLight, 1, 300, 90
+        M9A1_Bayonet, 1, 500, 150
+        PSO6Optic, 1, 1500, 450
+        KobraOptic, 1, 900, 270
+        RDG2SmokeGrenade_Black, 1, 300, 90
+        MediumGasCanister, 1, 250, 75
+        Matchbox, 1, 40, 10
+        Roadflare, 1, 80, 25
+        Chemlight_White, 1, 50, 15
+        Binoculars, 1, 300, 90
+        HuntingKnife, 1, 250, 75
+        KukriKnife, 1, 450, 135
+        PetrolLighter, 1, 120, 35
+        Pen_Blue, 1, 20, 5
+        MessTin, 1, 150, 45
+        Handcuffs, 1, 300, 90
+        Wrench, 1, 150, 45
+
+    <Category> РЕМОНТНI НАБОРИ ТА МАТЕРIАЛI
+        DuctTape, 1, 200, 60
+        WeaponCleaningKit, 1, 450, 135
+        SewingKit, 1, 150, 45
+        LeatherSewingKit, 1, 200, 60
+
+    <Category> ЗБРОЯ — СКУПКА КОЛОНІЇ НОВОДМИТРІВСЬК
+        AK74, W, -1, 1000
+        AKS74U, W, -1, 880
+        AugShort, W, -1, 1800
+        Aug, W, -1, 2000
+        M4A1, W, -1, 2000
+        Mosin9130, W, -1, 720
+        Repeater, W, -1, 440
+        SCARH, W, -1, 2200
+        ASVAL, W, -1, 1000
+        VSS, W, -1, 1520
+        Winchester70, W, -1, 1200
+        SVD, W, -1, 1500
+        M14, W, -1, 1600
+        Saiga, W, -1, 1000
+        SKS, W, -1, 720
+        PP19, W, -1, 800
+        FAMAS, W, -1, 500
+        Scout, W, -1, 1400
+        Trumpet, W, -1, 360
+        Vikhr, W, -1, 1120
+        SV98, W, -1, 2400
+        Izh43Shotgun, W, -1, 440
+        Mp133Shotgun, W, -1, 600
+        MakarovIJ70, W, -1, 180
+        MakarovPB, W, -1, 280
+        Derringer_Grey, W, -1, 120
+        Colt1911, W, -1, 280
+        Izh18, W, -1, 280
+
+    <Category> ПАТРОНИ — СКУПКА КОЛОНІЇ НОВОДМИТРІВСЬК
+        Ammo_45ACP, 1, -1, 4
+        Ammo_308Win, 1, -1, 8
+        Ammo_308WinTracer, 1, -1, 8
+        Ammo_380, 1, -1, 2
+        Ammo_556x45, 1, -1, 6
+        Ammo_556x45Tracer, 1, -1, 7
+        Ammo_762x54, 1, -1, 8
+        Ammo_762x54Tracer, 1, -1, 8
+        Ammo_762x39, 1, -1, 5
+        Ammo_762x39Tracer, 1, -1, 6
+        Ammo_9x39AP, 1, -1, 10
+        Ammo_9x39, 1, -1, 8
+        Ammo_22, 1, -1, 1
+        Ammo_12gaPellets, 1, -1, 5
+        Ammo_12gaSlug, 1, -1, 7
+        Ammo_357, 1, -1, 4
+        Ammo_545x39Tracer, 1, -1, 5
+
+    <Category> РІЗНЕ — СКУПКА КОЛОНІЇ НОВОДМИТРІВСЬК
+        CarBattery, 1, -1, 350
+        HeadlightH7, 1, -1, 60
+        CarRadiator, 1, -1, 300
+        HandSaw, 1, -1, 100
+        FieldShovel, 1, -1, 120
+        PipeWrench, 1, -1, 90
+        Nail, 1, -1, 1
+        FirefighterAxe, 1, -1, 200
+        Pot, 1, -1, 60
+        Battery9V, 1, -1, 50
+        Crowbar, 1, -1, 90
+        FryingPan, 1, -1, 60
+        CigarettePack_Chernamorka, 1, -1, 50
+        VitaminBottle, 1, -1, 80
+
+<OpenFile> TraderConfig_BlackMarket.txt

@@ -1,0 +1,213 @@
+// Marker 1 - Black Market
+<Trader> KONOXA
+    <Category> ЗБРОЯ
+        AKM_Gold, W, 5000, 2000
+	M4A1, W, 5000, 2000
+	M4A1_Green, W, 5000, 2000
+	AugShort, W, 5000, 2000
+	Aug, W, 5000, 2000
+	AK101_Black, W, 3000, 1300
+	M14, W, 4000, 2000
+	SVD, W, 3000, 1500
+	ASVAL, W, 2000, 1000
+	AK74_Green, W, 2000, 1000
+	UMP45, W, 950, 200
+	FAMAS, W, 1000, 400
+
+    <Category> МАГАЗИНИ
+       	Mag_AKM_30Rnd_Gold, M, 750, 200
+	Mag_CMAG_30Rnd_Green, M, 550, 200
+	Mag_CMAG_30Rnd, M, 550, 200
+	Mag_Aug_30Rnd, M, 700, 400
+	Mag_AK101_30Rnd, M, 550, 200
+	Mag_M14_20Rnd, M, 650, 350
+	Mag_SVD_10Rnd, M, 650, 350
+	Mag_Vikhr_30Rnd, M, 650, 400
+	Mag_AK74_30Rnd_Green, M, 550, 200
+	Mag_UMP_25Rnd, M, 200, 50
+	Mag_FAMAS_25Rnd, M, 300, 150
+
+    <Category> БОЄПРИПАСИ
+       	AmmoBox_556x45_20Rnd, 20, 500, 150
+	AmmoBox_556x45Tracer_20Rnd, 20, 500, 150
+	AmmoBox_762x39_20Rnd, 20, 500, 150
+	AmmoBox_762x39Tracer_20Rnd, 20, 500, 150
+	AmmoBox_762x54_20Rnd, 20, 500, 150
+	AmmoBox_762x54Tracer_20Rnd, 20, 500, 150
+	AmmoBox_545x39_20Rnd, 20, 500, 150
+	AmmoBox_545x39Tracer_20Rnd, 20, 500, 150
+	AmmoBox_9x39_20Rnd, 20, 500, 150
+	AmmoBox_45ACP_25rnd, 20, 200, 50
+	AmmoBox, 1, 300, 100
+	
+    <Category> ОБВIСИ
+	AK_WoodHndgrd_Gold, 1, 200, 100
+	AK_WoodBttstck_Gold, 1, 200, 100
+	M4_MPBttstck, 1, 150, 30
+	M4_OEBttstck, 1, 150, 30
+	M4_RISHndgrd_Black, 1, 150, 30
+	M4_MPBttstck_Green, 1, 150, 30
+	M4_OEBttstck_Green, 1, 150, 30
+	M4_RISHndgrd_Green, 1, 150, 30
+	AK_PlasticBttstck, 1, 150, 30
+	AK_RailHndgrd_Black, 1, 150, 30
+	AK_WoodBttstck_Camo, 1, 150, 30
+	AK74_Hndgrd_Camo, 1, 150, 30
+
+    <Category> РЮКЗАКИ
+	FOG_Bag_DrawBridge_MCB, 1, 3000, 1000
+	FOG_Bag_DrawBridge_Black, 1, 3000, 1000
+	FOG_Bag_DrawBridge_MCAL, 1, 3000, 1000
+	FOG_Bag_DrawBridge_MCAL, 1, 3000, 1000
+	FOG_Bag_BlackJack_MC, 1, 3500, 1000
+	FOG_Bag_BlackJack_MCAL, 1, 3500, 1000
+	FOG_Bag_BlackJack_Black, 1, 3500, 1000
+	FOG_Bag_BlackJack_MCT, 1, 3500, 1000
+	FOG_Bag_BlackJack_OD, 1, 3500, 1000
+	FOG_Bag_BlackJack_RG, 1, 3500, 1000
+
+    <Category> ТОРС
+	FOG_Shirt_ArcticJacket_Black, 1, 650, 100
+	FOG_AEM01_Jacket_Black, 1, 650, 100
+	FOG_AEM01_Jacket_MC, 1, 650, 100
+	FOG_AEM01_Jacket_MCB, 1, 650, 100
+	FOG_AEM01_Jacket_White, 1, 650, 100
+	FOG_Jacket_ArcteryxGryphon_AOR1, 1, 650, 100
+	FOG_FlightSuit_AOR2, 1, 650, 100
+	FOG_Jacket_ArcteryxGryphon_MC, 1, 650, 100
+	FOG_AEM01_Jacket_M81, 1, 650, 100
+	FOG_Jacket_ArcteryxGryphon_Black, 1, 650, 100
+	FOG_Crye_G3_Shirt_MCA, 1, 650, 100
+	FOG_Crye_G2_Shirt_Black, 1, 650, 100
+	FOG_AEM01_Jacket_MC_Black, 1, 650, 100
+	FOG_Shirt_Tactical_Coat_Black, 1, 650, 100
+	FOG_511_Shirt_Flanel_Black, 1, 650, 100
+	FOG_Crye_G3_Shirt_MCB, 1, 650, 100
+	FOG_Shirt_ArcticJacket_Grey, 1, 650, 100
+	FOG_Hoodie_Jacket_Nike_G, 1, 650, 100
+	FOG_Crye_G3_Shirt_MCAL, 1, 650, 100
+	FOG_Crye_G3_Shirt_MC, 1, 650, 100
+	FOG_Hoodie_Jacket_Black, 1, 650, 100
+	FOG_Crye_G3_Shirt_MCT, 1, 650, 100
+	FOG_Tactical_Hoodie_RG, 1, 650, 100
+	FOG_Hoodie_Jacket_CDAJ, 1, 650, 100
+	FOG_Tactical_Hoodie_Black, 1, 650, 100
+	FOG_Hoodie_Jacket_FOG, 1, 650, 100
+	FOG_Jacket_SoftShell_ERDL, 1, 650, 100
+	FOG_Jacket_SoftShell_CB, 1, 650, 100
+	FOG_Jacket_SoftShell_Grey, 1, 650, 100
+	FOG_Jacket_SoftShell_RG, 1, 650, 100
+	FOG_Jacket_SoftShell_MC, 1, 650, 100
+	FOG_Jacket_SoftShell_MCB, 1, 650, 100
+	FOG_Jacket_SoftShell_MC, 1, 650, 100
+	FOG_Jacket_SoftShell_Black, 1, 650, 100
+	FOG_Tactical_Hoodie_ERDL, 1, 650, 100
+	FOG_Tactical_Hoodie_UWU, 1, 650, 100
+	FOG_Tactical_Hoodie_MCB, 1, 650, 100
+	FOG_Tactical_Hoodie_MC, 1, 650, 100
+	FOG_Jacket_ArcteryxGryphon_MCB, 1, 650, 100
+
+    <Category> НОГИ
+	FOG_FieldPants_MCB, 1, 500, 100
+	FOG_FieldPants_MC_Ranger, 1, 500, 100
+	FOG_FieldPants_UCP, 1, 500, 100
+	FOG_FieldPants_MC, 1, 500, 100
+	FOG_UFP_Pants_Black, 1, 500, 100
+	FOG_G99_Pants_M81, 1, 500, 100
+	FOG_FieldPants_AOR2, 1, 500, 100
+	FOG_FieldPants_AOR1, 1, 500, 100
+	FOG_Pants_Crye_G2_Holster_Black, 1, 500, 100
+	FOG_G99_Pants_Black, 1, 500, 100
+	FOG_G99_Pants_White, 1, 500, 100
+	FOG_MTF_Pants_Black, 1, 500, 100
+	FOG_MTF_Pants_MC, 1, 500, 100
+	FOG_MTF_Pants_FK, 1, 500, 100
+	FOG_Gorka_Pants_Black, 1, 500, 100
+
+    <Category> НАКИДКИ
+	FOG_SniperHood_Black, 1, 200, 50
+	FOG_SniperHood_MCB, 1, 200, 50
+	FOG_SniperHood_MCT, 1, 200, 50
+	FOG_SniperHood_MC, 1, 200, 50
+	FOG_SniperHood_MC_Black, 1, 200, 50
+	FOG_Hooded_Cloak_RG, 1, 200, 50
+	FOG_Hooded_Cloak_Black, 1, 200, 50
+
+    <Category> БРОНЯ
+	FOG_Vest_CPC_MCB, 1, 1500, 800
+	FOG_Vest_DPC_CB, 1, 1500, 800
+	FOG_Vest_CPC_MC, 1, 1500, 800
+	FOG_Vest_DPC_MC, 1, 1500, 800
+	FOG_Vest_CPC_ATACS, 1, 1500, 800
+	FOG_Vest_CPC_MCA, 1, 1500, 800
+	FOG_Vest_CPC_AOR2, 1, 1500, 800
+	FOG_Vest_DPC_Black, 1, 1500, 800
+	FOG_Vest_DPC_RG, 1, 1500, 800
+	FOG_Vest_CPC_AOR2, 1, 1500, 800
+	FOG_Vest_CPC_AOR1, 1, 1500, 800
+	FOG_Vest_CPC_MCAL, 1, 1500, 800
+	FOG_Vest_Osprey_RG, 1, 2500, 1250
+	FOG_Vest_Osprey_MCB, 1, 2500, 1250
+	FOG_Vest_Osprey_MCT, 1, 2500, 1250
+	FOG_Vest_Osprey_MC, 1, 2500, 1250
+	FOG_Vest_Osprey_MC_Black, 1, 2500, 1250
+	FOG_Vest_Osprey_Grey, 1, 2500, 1250
+	FOG_Vest_Osprey_Black, 1, 2500, 1250
+	FOG_Vest_Osprey_MCAL, 1, 2500, 1250
+	FOG_Vest_Osprey_CB, 1, 2500, 1250
+	FOG_Vest_Osprey_M81, 1, 2500, 1250
+	FOG_Vest_Gen4_Green, 1, 3650, 1800
+	FOG_Vest_Gen4_Black, 1, 3650, 1800
+	FOG_Vest_Gen4_Tan, 1, 3650, 1800
+	FOG_Vest_Gen4_MARPAT, 1, 3650, 1800
+	FOG_Vest_Gen4_NWU, 1, 3650, 1800
+	FOG_Vest_Gen4_UCP, 1, 3650, 1800
+	FOG_Vest_Gen4_EMR, 1, 3650, 1800
+
+     <Category> МАСКИ
+	FOG_Arcteryx_Balaclava_RG, 1, 75, 25
+	FOG_Arcteryx_Balaclava_White, 1, 75, 25
+	FOG_Arcteryx_Balaclava_Black, 1, 75, 25
+	FOG_Ghost_Mask_Black, 1, 2000, 1000
+	FOG_Ghost_Mask_Black_White, 1, 2000, 1000
+	FOG_Knight_Mask_Black, 1, 2000, 1000
+
+     <Category> ВЗУТТЯ
+	FOG_Lerch_Boots_Black, 1, 250, 50
+	FOG_Operator_Boots_RG, 1, 250, 50
+	FOG_Lerch_Boots_MCB, 1, 250, 50
+	FOG_Operator_Boots_Black, 1, 250, 50
+	FOG_Operator_Boots_CB, 1, 250, 50
+	FOG_Lerch_Boots_MC, 1, 250, 50
+
+     <Category> РУКАВИЦI
+	FOG_PIGFDT_Gloves_AJ, 1, 200, 45
+	FOG_GunGloves_MC, 1, 200, 45
+	FOG_GunGloves_Black, 1, 200, 45
+	FOG_FerroGloves_Tan, 1, 200, 45
+	FOG_FerroGloves_White, 1, 200, 45
+	FOG_GunGloves_AOR2, 1, 200, 45
+	FOG_PIGFDT_Gloves_MCAL, 1, 200, 45
+	FOG_MechanixGloves_Black_Words, 1, 200, 45
+	FOG_MechanixGloves_Skele, 1, 200, 45
+	FOG_FerroGloves_Black_WhiteTrim, 1, 200, 45
+
+     <Category> ШОЛОМИ
+	FOG_Helmet_FAST_Bump_MCT, 1, 1200, 550
+	FOG_Helmet_Caimen_Black, 1, 1200, 550
+	FOG_Helmet_FAST_Bump_RG, 1, 1200, 550
+	FOG_Helmet_Caimen_Tan, 1, 1200, 550
+	FOG_Helmet_FAST_Bump_Black, 1, 1200, 550
+	FOG_Helmet_FAST_Bump_MCB, 1, 1200, 550
+	FOG_Helmet_FAST_Bump_Tan, 1, 1200, 550
+	FOG_Helmet_Caimen_RG, 1, 1200, 550
+	FOG_Helmet_FAST_Bump_ERDL, 1, 1200, 550
+	FOG_Helmet_Caimen_Grey, 1, 1200, 550
+	FOG_Helmet_FAST_Bump_MC, 1, 1200, 550
+
+     <Category> ГЛУШНИКИ
+	AK_Suppressor, 1, 5500, 2500
+	M4_Suppressor, 1, 5500, 2500
+	PistolSuppressor, 1, 350, 100
+
+<OpenFile> TraderConfig_Mogilevka.txt
