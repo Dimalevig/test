@@ -2,12 +2,12 @@
     <Category> ЗБРОЯ
         Crossbow_Autumn, W, 1000, 320
         CZ527, W, 2000, 640
-        Izh18, W, 700, 220
+        Izh18, W, 700, 110
         Trumpet, W, 900, 290
         Winchester70, W, 3000, 960
         Magnum, W, 1000, 320
         SawedoffMagnum, W, 800, 260
-        Izh43Shotgun, W, 1100, 350
+        Izh43Shotgun, W, 1100, 175
         SawedoffIzh43Shotgun, W, 900, 290
         Mp133Shotgun, W, 1500, 480
 
@@ -40,7 +40,7 @@
 
     <Category> ЇЖА ТА КУХОННI ПРЕДМЕТИ
         Lunchmeat, 1, 100, 30
-        WaterBottle, 1, 120, 35
+        WaterBottle, 1, 120, 10
         PorkCan, 1, 100, 30
         Tomato, 1, 30, 10
         GreenBellPepper, 1, 30, 10
@@ -51,27 +51,27 @@
         Pot, 1, 200, 60
 
     <Category> РIЗНЕ
-        TomatoSeedsPack, 1, 80, 25
-        PepperSeedsPack, 1, 80, 25
-        PumpkinSeedsPack, 1, 80, 25
-        ZucchiniSeedsPack, 1, 80, 25
-        Hatchet, 1, 300, 90
-        HuntingKnife, 1, 250, 75
-        Shovel, 1, 300, 90
+        TomatoSeedsPack, 1, 80, 10
+        PepperSeedsPack, 1, 80, 10
+        PumpkinSeedsPack, 1, 80, 10
+        ZucchiniSeedsPack, 1, 80, 10
+        Hatchet, 1, 300, 30
+        HuntingKnife, 1, 250, 25
+        Shovel, 1, 300, 30
         HuntingOptic, 1, 800, 240
-        Headtorch_Grey, 1, 200, 60
+        Headtorch_Grey, 1, 200, 20
         BurlapSackCover, 1, 100, 30
 
     <Category> БУДІВНИЦТВО ТА БАЗА
-        NailBox, 1, 250, 75
+        NailBox, 1, 250, 25
         WoodenPlank, 1, 30, 10
         WoodenLog, 1, 80, 25
-        MetalWire, 1, 200, 60
-        MetalPlate, 1, 150, 45
-        Rope, 1, 150, 45
-        Hammer, 1, 200, 60
-        Pliers, 1, 200, 60
-        Hacksaw, 1, 250, 75
+        MetalWire, 1, 200, 20
+        MetalPlate, 1, 150, 15
+        Rope, 1, 150, 20
+        Hammer, 1, 200, 30
+        Pliers, 1, 200, 20
+        Hacksaw, 1, 250, 25
         SledgeHammer, 1, 600, 180
         Pickaxe, 1, 500, 150
         FenceKit, 1, 100, 30
@@ -79,9 +79,9 @@
         ShelterKit, 1, 100, 30
         TerritoryFlagKit, 1, 1500, 450
         Flag_Chernarus, 1, 300, 90
-        CombinationLock, 1, 1500, 450
-        CombinationLock4, 1, 2500, 750
-        Camonet, 1, 300, 90
+        CombinationLock, 1, 1500, 150
+        CombinationLock4, 1, 2500, 375
+        Camonet, 1, 300, 45
         Barrel_Green, 1, 600, 180
         SeaChest, 1, 400, 120
         WoodenCrate, 1, 200, 60
@@ -125,13 +125,13 @@
         ZagorkyChocolate, 1, -1, 20
 
     <Category> РIЗНЕ — СКУПКА
-        CanisterGasoline, 1, -1, 180
-        HandSaw, 1, -1, 100
+        CanisterGasoline, 1, -1, 90
+        HandSaw, 1, -1, 35
         Nail, 1, -1, 1
         Expansion_PlateCarrierVest_Yeet, 1, -1, 600
         PlateCarrierVest, 1, -1, 600
-        CarBattery, 1, -1, 360
-        Battery9V, 1, -1, 50
+        CarBattery, 1, -1, 120
+        Battery9V, 1, -1, 15
 
     <Category> ПАТРОНИ — СКУПКА
         Ammo_45ACP, 1, -1, 3
@@ -158,9 +158,9 @@
         Aug, W, -1, 1600
         M4A1, W, -1, 1600
         Mosin9130, W, -1, 580
-        Repeater, W, -1, 350
+        Repeater, W, -1, 175
         SCARH, W, -1, 1760
-        Glock19, W, -1, 290
+        Glock19, W, -1, 145
         ASVAL, W, -1, 1220
         VSS, W, -1, 1220
         SVD, W, -1, 1440
