@@ -136,14 +136,14 @@
         Repeater, W, -1, 350
         SCARH, W, -1, 1760
         Glock19, W, -1, 290
-        ASVAL, W, -1, 800
+        ASVAL, W, -1, 1220
         VSS, W, -1, 1220
-        SVD, W, -1, 1200
+        SVD, W, -1, 1440
         M14, W, -1, 1280
         Saiga, W, -1, 800
         SKS, W, -1, 580
         PP19, W, -1, 640
-        FAMAS, W, -1, 400
+        FAMAS, W, -1, 1120
         Scout, W, -1, 1120
 
 <FileEnd>
