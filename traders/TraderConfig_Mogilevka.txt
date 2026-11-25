@@ -62,6 +62,33 @@
         Headtorch_Grey, 1, 200, 60
         BurlapSackCover, 1, 100, 30
 
+    <Category> БУДІВНИЦТВО ТА БАЗА
+        NailBox, 1, 250, 75
+        WoodenPlank, 1, 30, 10
+        WoodenLog, 1, 80, 25
+        MetalWire, 1, 200, 60
+        MetalPlate, 1, 150, 45
+        Rope, 1, 150, 45
+        Hammer, 1, 200, 60
+        Pliers, 1, 200, 60
+        Hacksaw, 1, 250, 75
+        SledgeHammer, 1, 600, 180
+        Pickaxe, 1, 500, 150
+        FenceKit, 1, 100, 30
+        WatchtowerKit, 1, 150, 45
+        ShelterKit, 1, 100, 30
+        TerritoryFlagKit, 1, 1500, 450
+        Flag_Chernarus, 1, 300, 90
+        CombinationLock, 1, 1500, 450
+        CombinationLock4, 1, 2500, 750
+        Camonet, 1, 300, 90
+        Barrel_Green, 1, 600, 180
+        SeaChest, 1, 400, 120
+        WoodenCrate, 1, 200, 60
+        MediumTent, 1, 800, 240
+        CarTent, 1, 1200, 360
+        LargeTent, 1, 1500, 450
+
     <Category> ПРОДУКТИ — СКУПКА
         Banana, 1, -1, 15
         BoarSteakMeat, 1, -1, 30
@@ -100,12 +127,10 @@
     <Category> РIЗНЕ — СКУПКА
         CanisterGasoline, 1, -1, 180
         HandSaw, 1, -1, 100
-        NailBox, 1, -1, 60
         Nail, 1, -1, 1
         Expansion_PlateCarrierVest_Yeet, 1, -1, 600
         PlateCarrierVest, 1, -1, 600
-        Rope, 1, -1, 40
-        CarBattery, 1, -1, 350
+        CarBattery, 1, -1, 360
         Battery9V, 1, -1, 50
 
     <Category> ПАТРОНИ — СКУПКА

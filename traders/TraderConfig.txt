@@ -148,6 +148,36 @@
         SewingKit, 1, 150, 45
         LeatherSewingKit, 1, 200, 60
 
+    <Category> ЗАПЧАСТИНИ ДО ТРАНСПОРТУ
+        CivSedanWheel, 1, 600, 180
+        HatchbackWheel, 1, 600, 180
+        Hatchback_02_Wheel, 1, 600, 180
+        Sedan_02_Wheel, 1, 600, 180
+        Offroad_02_Wheel, 1, 700, 210
+        Truck_01_Wheel, 1, 900, 270
+        Truck_01_WheelDouble, 1, 1100, 330
+        SparkPlug, 1, 400, 120
+        GlowPlug, 1, 500, 150
+        CarBattery, 1, 1200, 360
+        TruckBattery, 1, 1600, 480
+        CarRadiator, 1, 1000, 300
+        TireRepairKit, 1, 400, 120
+
+    <Category> МЕДИЦИНА
+        BandageDressing, 1, 80, 25
+        DisinfectantAlcohol, 1, 120, 35
+        DisinfectantSpray, 1, 150, 45
+        IodineTincture, 1, 150, 45
+        PainkillerTablets, 1, 150, 45
+        CharcoalTablets, 1, 150, 45
+        VitaminBottle, 1, 200, 60
+        Morphine, 1, 500, 150
+        Epinephrine, 1, 600, 180
+        SalineBag, 1, 400, 120
+        StartKitIV, 1, 300, 90
+        BloodBagEmpty, 1, 300, 90
+        BloodTestKit, 1, 250, 75
+
     <Category> ЗБРОЯ — СКУПКА КОЛОНІЇ НОВОДМИТРІВСЬК
         AKS74U, W, -1, 880
         AugShort, W, -1, 1800
@@ -197,9 +227,7 @@
         Ammo_545x39Tracer, 1, -1, 5
 
     <Category> РІЗНЕ — СКУПКА КОЛОНІЇ НОВОДМИТРІВСЬК
-        CarBattery, 1, -1, 350
         HeadlightH7, 1, -1, 60
-        CarRadiator, 1, -1, 300
         HandSaw, 1, -1, 100
         FieldShovel, 1, -1, 120
         PipeWrench, 1, -1, 90
@@ -210,6 +238,5 @@
         Crowbar, 1, -1, 90
         FryingPan, 1, -1, 60
         CigarettePack_Chernamorka, 1, -1, 50
-        VitaminBottle, 1, -1, 80
 
 <OpenFile> TraderConfig_BlackMarket.txt
